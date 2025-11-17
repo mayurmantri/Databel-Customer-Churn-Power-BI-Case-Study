@@ -36,10 +36,10 @@ The findings support targeted actions including competitor match offers, saves f
 
 ### **1️⃣ What are the primary drivers of churn?**
 **Insight:**  
-“Competitor made better offer” is the leading reason (≈45% of churn), followed by device/offer gaps and service attitude issues.  
+The analysis reveals that competitive pressure is the single largest cause of churn. Nearly 45% of customers who left Databel cited “Competitor made better offer” as their main reason, followed by better devices and negative service experiences. This indicates that customers perceive Databel’s value proposition and service responsiveness as weaker compared to rival telecom providers. Dissatisfaction with price and network reliability also appear as contributing factors, though secondary in magnitude. 
 
 **Action:**  
-Reinforce competitive pricing and enhance service training for retention.  
+Databel should reassess its competitive positioning by monitoring rival offers and designing personalised retention bundles for price-sensitive customers. Introducing device upgrade programs, loyalty discounts, and improved frontline support training will address both price and service attitude issues. Marketing communications should highlight Databel’s differentiators, such as network reliability, flexibility, and customer-first values.
 
 **Visuals:**  
 ![Churn Reasons](assets/churn_reasons.png)  
@@ -49,10 +49,10 @@ Reinforce competitive pricing and enhance service training for retention.
 
 ### **2️⃣ Who is most at risk of churn?**
 **Insight:**  
-Month-to-Month contracts, early-tenure customers, seniors, and heavy/unlimited data users show the highest churn rates.  
+Month-to-Month customers experience churn rates between 40% and 60%, far higher than One-Year (≈12%) or Two-Year (≈0–5%) contracts. Senior customers record the highest demographic churn (~38%), and new customers (low account tenure) leave at a faster pace. Additionally, unlimited and high-usage customers (5–10 GB and 10+ GB) show above-average churn, possibly due to price dissatisfaction or unclear value for unlimited data.
 
 **Action:**  
-Focus retention programs on these cohorts through targeted offers and proactive engagement.  
+Target these high-risk segments through personalised retention campaigns. Offer incentives for contract upgrades (e.g., free months or device credits) and loyalty programs for early-tenure users. Develop senior-friendly support options, such as simplified billing and responsive service teams. For heavy users, clearly communicate benefits of unlimited plans and add bonus features to reinforce value.
 
 **Visuals:**  
 ![Contract Type vs Tenure](assets/contract_type_vs_tenure.png)  
@@ -62,10 +62,10 @@ Focus retention programs on these cohorts through targeted offers and proactive 
 
 ### **3️⃣ Where is churn concentrated geographically?**
 **Insight:**  
-Churn is uneven across states; **California** shows an outlier churn rate of **63.24%**.  
+The geographical analysis highlights California as a major outlier with a churn rate exceeding 63%, significantly above the national average. Other Western and Southern U.S. states also show elevated churn clusters. This pattern suggests regional competitive pressures, network reliability issues, or localized service dissatisfaction rather than a uniform nationwide problem.
 
 **Action:**  
-Run market-specific diagnostics and localised retention offers starting with high-churn regions.  
+Databel should adopt a geo-targeted retention approach. Begin with California by assessing competitor pricing, coverage quality, and service performance in that region. Launch localised offers, deploy additional customer service resources, and gather feedback through regional satisfaction surveys. Building regional churn dashboards will help track interventions and identify similar high-risk areas.
 
 **Visuals:**  
 ![Churn Map](assets/map_churn.png)
@@ -74,10 +74,10 @@ Run market-specific diagnostics and localised retention offers starting with hig
 
 ### **4️⃣ How do pricing and usage relate to churn?**
 **Insight:**  
-Customers using **5–10 GB** or **10+ GB** churn more often than <5 GB users. **Unlimited plan users** churn twice as much (32% vs 16%).  
+Customers consuming higher data volumes churn more frequently. Both 5–10 GB and 10+ GB usage groups display 30%+ churn, compared to <20% among light users. Interestingly, customers with Unlimited Data Plans churn almost twice as often (32%) as those without (16%). This may point to unmet expectations in unlimited plan value or hidden costs (e.g., throttling or extra international charges). Additionally, average international and data overage fees are noticeably high.  
 
 **Action:**  
-Introduce fair-use bundles and proactive alerts to improve perceived value and prevent bill shock.  
+Revisit pricing structures for heavy users to improve perceived fairness. Introduce transparent usage alerts, fair-use limits, and loyalty data bonuses. For unlimited plan subscribers, redefine plan tiers to include tangible perks like roaming, streaming credits, or speed boosts. Simplifying plan communication and proactively managing overage charges will reduce dissatisfaction-driven churn. 
 
 **Visuals:**  
 ![Extra Charges](assets/extra_charges.png)  
@@ -87,10 +87,10 @@ Introduce fair-use bundles and proactive alerts to improve perceived value and p
 
 ### **5️⃣ Which operational signals predict churn?**
 **Insight:**  
-Churners make more service calls and are more likely to pay manually (paper checks, credit card).  
+Churned customers typically contact customer service more frequently, indicating dissatisfaction prior to departure. The analysis also shows correlations between churn and payment method patterns—manual payment users (credit card, paper check) show higher churn than Direct Debit users. These operational touchpoints serve as leading indicators of potential churn, especially when combined with early tenure or contract type.
 
 **Action:**  
-Use customer service call spikes and payment patterns as early churn predictors for save-team intervention.  
+Databel can leverage these findings to predict churn in real time. Implement a retention alert system within the CRM that flags customers with multiple service calls or recent billing issues. Train save teams to respond with empathetic communication and tailored offers. Promote Direct Debit enrolment through incentives to reduce billing friction and improve retention stability.
 
 **Visuals:**  
 ![Service Calls](assets/insights_service_calls.png)  
