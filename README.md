@@ -94,10 +94,25 @@ Databel can leverage these findings to predict churn in real time. Implement a r
 
 ---
 
+## 🧠 Key Recommendations
+
+- Strengthen **pricing competitiveness** and loyalty bundles for **month-to-month** users  
+- Deploy **early-warning alerts** for recent **service-call spikes**  
+- Encourage **contract upgrades** (1-year / 2-year) with added benefits  
+- Conduct **geo-targeted retention campaigns** in high-churn states  
+- Improve **Unlimited Plan** perceived value through clearer pricing and bonus features  
+
+---
+
+## 🏁 Conclusion
+Databel’s churn is driven primarily by competition and short-term contracts.  
+By prioritising competitive offers, improving customer service experience, and using predictive indicators such as service-call spikes, the company can reduce churn by **2–4 percentage points** within a quarter while improving customer satisfaction and lifetime value.
+
+---
+
 ## 🧮 Tools & Methods
 
-- **Power BI Desktop** – Dashboard creation, DAX measures, KPI cards, and custom visuals  
-- **Data Modelling** – Customers, contracts, charges, calls, and demographics  
+- **Power BI Desktop** – Dashboard creation, DAX measures, KPI cards, and custom visuals   
 - **Visualization Techniques** – Interactive slicers, color-coded KPIs, trend lines, and map visuals
 
 
