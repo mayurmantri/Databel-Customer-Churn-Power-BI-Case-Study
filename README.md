@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/databel_wordmark.png" width="420" alt="Databel – Insights that reduce churn"/>
+  <img src="assets/databel_logo.png" width="420" alt="Databel – Insights that reduce churn"/>
 </p>
 
 ---
@@ -35,6 +35,9 @@ The findings support targeted actions including competitor match offers, saves f
 ## 🧩 Business Questions & Insights
 
 ### **1️⃣ What are the primary drivers of churn?**
+
+ <img width="1672" height="721" alt="churn_rate_image" src="assets/churn_rate.png" width="420" alt="Databel – Insights that reduce churn"/>
+ 
 **Insight:**  
 The analysis reveals that competitive pressure is the single largest cause of churn. Nearly 45% of customers who left Databel cited “Competitor made better offer” as their main reason, followed by better devices and negative service experiences. This indicates that customers perceive Databel’s value proposition and service responsiveness as weaker compared to rival telecom providers. Dissatisfaction with price and network reliability also appear as contributing factors, though secondary in magnitude. 
 
